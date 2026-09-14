@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files - see README for download links
+*.feather
+*.csv
+
+# macOS
+.DS_Store
